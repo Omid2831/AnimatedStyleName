@@ -10,7 +10,7 @@ This project showcases a neon-styled text effect using HTML and CSS. The text, *
 
 ## 🖼 Demo
 
-![Omid_MHR Demo](assets/demo.png)
+![Omid_MHR Demo](img/sample.png)
 
 *An example of the neon-style text effect.*
 
