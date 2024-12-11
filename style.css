@@ -34,3 +34,20 @@ body {
     font-variation-settings: "wght" 100, "ital" 0;
     text-shadow: none;
 }
+
+/* For mobile devices (up to 767px) */
+@media only screen and (max-width: 767px) {
+    /* Styles for mobile devices */
+    body {
+        font-size: 14px;
+        padding: 10px;
+    }
+    .container {
+        width: 100%;
+        padding: 15px;
+    }
+    .header {
+        font-size: 20px;
+    }
+   
+}
